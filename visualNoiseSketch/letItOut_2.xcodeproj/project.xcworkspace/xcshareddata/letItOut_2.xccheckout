@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2500CA7-3A95-4115-99A3-54847953ED2D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>letItOut_2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3BAB6AF87015D9DE4A9DFA22FA751262C97B7C57</key>
+		<string>https://github.com/burka186/Final-Project-Prototype-2.git</string>
+		<key>79CD957CE0A8622D2FC6C60E22E2E844509833F3</key>
+		<string>https://github.com/burka186/FInal-Project-For-Real-This-Time.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>letItOut_2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3BAB6AF87015D9DE4A9DFA22FA751262C97B7C57</key>
+		<string>../..</string>
+		<key>79CD957CE0A8622D2FC6C60E22E2E844509833F3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/burka186/Final-Project-Prototype-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3BAB6AF87015D9DE4A9DFA22FA751262C97B7C57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>79CD957CE0A8622D2FC6C60E22E2E844509833F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3BAB6AF87015D9DE4A9DFA22FA751262C97B7C57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>letItOut_2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

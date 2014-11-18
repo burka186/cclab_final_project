@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Ava Burke</Author>
+  <LastAuthor>Ava Burke</LastAuthor>
+  <Created>2014-11-05T21:30:10Z</Created>
+  <LastSaved>2014-11-05T22:36:06Z</LastSaved>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12860</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>3200</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Inherit" ss:Size="14" ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s200">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="90" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="677"/>
+   <Row>
+    <Cell><Data ss:Type="String">On-duty Florida Cop of the Month fired for allegedly raping woman on patrol car hood, threatening her with arrest, death.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Police said the 35-year-old cop picked up a woman earlier this month, raped her while holding a gun and threatened to arrest and kill her.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">He held her down with his right hand, police said. He held his gun in his left hand, she told police.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Later, as she got dressed, he pointed the weapon at her again and threatened to kill her — and her whole family — if she told anyone what happened, police said.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Caught on tape: Austin Police Department confirms rape jokes were made by officers</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Go ahead and call the cops. They can’t unrape you.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Austin Police Department has confirmed that people caught on video making rape jokes are indeed police officers.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;What did you expect?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;I want to fuck you like an animal&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;What were you wearing?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Don't make a big fuss</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row ss:Height="18">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">I’d like to make it the objective for the remainder of this month, and all the Octobers that follow, for men who are being attacked and physically abused by women—to beat the living shit out of them. I don’t mean subdue them, or deliver an open handed pop on the face to get them to settle down. I mean literally to grab them by the hair and smack their face against the wall till the smugness of beating on someone because you know they won’t fight back drains from their nose with a few million red corpuscles.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">If You See Jezebel in the Road, Run the Bitch Down</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row ss:Height="18">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Hell, women are often excused from&#160;killing&#160;someone whom they allege has abused them. They can shoot them in their sleep and walk. Happens all the time. It’ll even get you a spot on Oprah, and cuntists across the cunt-o-sphere will be lionizing you.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">'Feminism lite' is letting down the women who need it the most</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;Too often, men worry they’ll be attacked by women for questioning a consensus position on feminist issues.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Men are afraid to talk about feminism.&quot;&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I've worried that I would be slammed for my white, male position and dismissed as ignorant of the real problems faced by women today.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;What's up beautiful&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;You should say thank you.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Smile!&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;What's wrong, princess?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fox News Host Says Young Women Should ‘Go Back to Tinder’ Instead of Voting</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">24 Dudes Share The Red Flags They Use To Identify “Crazy” Girls</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">If she plays the victim constantly, too well, she isn’t the victim.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">“Everyone is against me” is a fucking great way to tell if a bitch is crazy</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Yea, those bitches are crazy.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">If you meet on a dating site and her profile states she’s not looking for a fuck buddy, yet shortly after you start talking she sends you naughty pictures when you haven’t even met face to face, get the fuck out of there.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">A good rule of thumb is crazy in bed means crazy in the head.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Crying about stupid things. Especially in the context of trying to get her way or convince you of something.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Says ‘Im going to say you raped me’ to every guy who makes her mad.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;I'd hate to argue semantics but economic coercion is not 'domestic violence' since it is by default not violence. This is deplorable but let's not stretch the definition of violence to make a point.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pew survey shows women bear brunt of online harassment</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Of those asked, a full quarter of women age 18-24 reported having been sexually harassed online, according to Pew, compared to 13 percent of men. And just over a quarter of women in that age group reported having been stalked online, compared to 7 percent of men.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Personhood on the Ballot in North Dakota</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Measure 1 on North Dakota’s ballot would amend the constitution to state, 'The inalienable right to life of every human being at any stage of development must be recognized and protected.'</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sexist French Uber Promotion Pairs Riders With “Hot Chick”&#160;Drivers</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">It's really about ethics in games journalism.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Starting to realiz how much I always need to be &quot;a good girl.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Video Gamers Are Having A Bizarre Debate Over Whether Sending Death Threats To Women Is A Serious Issue Or Not</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">16 percent of victims of all ages reported rape to law enforcement compared to just 12 percent of college students. And just 6 percent of college students who were assaulted with alcohol involved reported the incident to police.</Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Not all men!</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Additionally, using false statistics and fueling outright sensational hysteria in order to pass legislation would be derided if it was for any other cause, and if the fallout was going to affect anyone besides innocent boys.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Kangaroo courts and trampled due processs rights have allowed young men's lives to be destroyed based on nothing more than accusation.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Additionally, whomever in this thread is touting the oft-parroted and long-since debunked myth of the&quot;1 in 5&quot; statistic, please understand that this would constitute the worst criminal epidemic in human history.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;It destroys the big business of victimhood, but the truth is at this time in our history, all violent crime, including sexual assault, is at an all-time LOW.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;I promise if you do more reading, you will see this differently.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;hysterical feminist disproven propaganda&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Changing consent laws to a presumption of no consent even between committed relationships will undoubtedly land people in jail due to overzealous prosecutors or scorned lovers.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">She was asking for it</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">No means yes and yes means anal</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">most rape reports are false</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">It wasn't *really* rape if…</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">How much did you have to drink?</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">She was just playing hard to get</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;There's a MASSIVE injustice taking place where we simply allow women to conflate 'regret' with 'assault' and literally suffer ZERO consequences when their claim is recanted or PROVEN false.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;What is the incentive to not act selfishly at the expense of a boy who hurt your feelings?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I reported the 2nd time but not the 1st b/c I wasn't sure it was &quot;bad enough&quot; and I wanted to protect him #BeenRapedNeverReported</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">He was my friend, and I didn't want to ruin his life. Hadn't yet grasped how much he really ruined mine. #BeenRapedNeverReported</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Both reporting and not reporting filled me with anger and regret so I can't even say that either were 'right' #BeenRapedNeverReported</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Just get a thicker skin&quot;</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">this bartender just tried to tell me that middle class white men are the most oppressed people in the world. i just. i can't. Another Beer</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">for as long as i've been dating men have been idealizing me then later blaming me for being human after all.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">do men really not know how to act. even if you have no ill intent do you really not understand why shit like this isn't ok</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Am apparently doing feminism wrong. Please alert your friends and neighbors.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">caring about women and wanting to fuck women are not the same thing i cannot believe this needs to be said</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Tech company’s first female CEO will make less than the man before her </Data></Cell>
+    <Cell><Data ss:Type="String">News</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">But it's only a small but vocal minority!</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lean in!</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Don't be hysterical</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;You should have worn pants.&quot;</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">You were asking for it.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I bet she was asking for it.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;You have a good body, but it could be better.&quot;</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;That might matter to some undergrad women's studies majors, but…&quot;</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Men are entitled to your body.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Just pretend it didn't happen.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lighten up!</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Don't be so emotional.</Data></Cell>
+    <Cell><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bitch.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cunt.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Crazy bitch.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Slut.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">She's probably just on her period.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&quot;Stop carrying that mattress around, it's not going to change anything.&quot;</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Personal Accounts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Don't walk alone at night.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">It was her fault.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">She is probably lying.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">That must be an exaggeration.</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">But I'm a nice guy!</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="String">Cultural Tropes</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <TopRowVisible>53</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>90</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
